@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Ayushi Sharma
 
-<!--
-**ayushi-2724/ayushi-2724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- Aspiring Full-Stack Developer
+- Learning HTML, CSS, JavaScript and MERN Stack
+- B.Tech CSE (IoT) student
+- Interested in building real-world web applications
 
-Here are some ideas to get you started:
+### 🛠️ Skills (Currently Learning)
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Focus
+- Strengthening web development fundamentals
+- Building small projects and improving daily
+- Documenting my learning journey on GitHub
+
+### 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/ayushi-sharma9921
